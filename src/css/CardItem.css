@@ -12,3 +12,10 @@
     backdrop-filter: blur(10px);
     box-shadow: inset 2px 2px 15px rgba(13, 51, 49, 0.6);
 }
+@media (max-width: 799px) {
+.card-img {
+    margin-top: 20px;
+    width: 90%;}
+}
+
+.card-title {padding-top: 40px;}

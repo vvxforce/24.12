@@ -18,7 +18,7 @@ const CardItem = ({ style, title, img, _id, key }) => {
     >
       <Link to={`/product/${_id}`}>
         <img className= "card-img" src={img} alt={title} />
-        <h3>{title}</h3>
+        <h3 className= "card-title">{title}</h3>
       </Link>
     </div>
   );

@@ -24,7 +24,7 @@
 }
 .w-100 > .form-group,
 .time > .form-group {
-    width: 100% !important;
+    width: 90% !important;
 }
 .form-group {
     margin: 0 0 40px;
@@ -65,7 +65,7 @@
     }
     .w-100,
     .form-group {
-        width: 100% !important;
+        width: 80% !important;
     }
     .car + .w-100,
     .car > .form-group {
